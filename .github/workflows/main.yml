@@ -1,5 +1,5 @@
 # deploy
-name: CICD using maven and SL lab 
+name: CICD using maven and SL lab
 on: 
  push: 
    branches: ["main"]
